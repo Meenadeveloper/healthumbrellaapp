@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "myapp",
-    "slug": "myapp",
+    "name": "react-native-boiler",
+    "slug": "react-native-boiler",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "reactnativeboiler",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
